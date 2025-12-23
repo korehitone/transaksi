@@ -110,16 +110,16 @@
 		</dependency>
 
 		<!-- Security dasar -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
+		</dependency> -->
 
 		<!-- KHUSUS PENGGUNA TOKEN: Resource server JWT berbasis OAuth2 -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-oauth2-resource-server</artifactId>
-		</dependency>
+		</dependency> -->
 		
 		<!-- springdoc openapi ui -->
 		<dependency>
