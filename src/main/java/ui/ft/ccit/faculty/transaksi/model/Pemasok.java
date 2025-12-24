@@ -34,6 +34,14 @@ public class Pemasok {
         this.email = email;
     }
 
+    public Pemasok(String namaPemasok, String alamat, String telepon, String email) {
+        this.namaPemasok = namaPemasok;
+        this.alamat = alamat;
+        this.telepon = telepon;
+        this.email = email;
+    }
+
+
     // === GETTERS & SETTERS ===
 
     public String getIdPemasok() {
